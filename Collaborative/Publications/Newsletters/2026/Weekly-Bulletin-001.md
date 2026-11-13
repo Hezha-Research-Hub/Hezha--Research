@@ -1,7 +1,7 @@
 # Entropy: Why Does Time Move Only in One Direction?
 
 - Type: Weekly Bulletin
-- Date: 2026-11-13
+- Date: 2026-11-1
 - Topic: Thermodynamics and Statistical Mechanics
 - Author: Hezha Azami
 - Editor: Hezha Azami
