@@ -1,7 +1,7 @@
 # In the Wake of Partons: Observing a Wake in Quark–Gluon Plasma- Type: Newsletter
 
 - Type: Newsletter
-- Date: 2026
+- Date: 2026-12-30
 - Author: Hezha Azami
 - Research: Hezha Azami
 - Translation: Hezha Azami
